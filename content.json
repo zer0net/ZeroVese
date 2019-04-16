@@ -1,0 +1,93 @@
+{
+ "address": "1D4irsAzXKkqfkwiadKHEwpbZuQKXvyiTK",
+ "address_index": 28396936,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "",
+ "files": {
+  "all.js": {
+   "sha512": "6f450e0c5937f774a7aa94f56511c69f32b93ee25c411c15c5362416391183d9",
+   "size": 1043345
+  },
+  "assets/ZeroFrame.js": {
+   "sha512": "586e1e67a6739ac0bbfdc83b8636c98abc969d42907df38ebde8ec325156f4b7",
+   "size": 3647
+  },
+  "assets/img/ripple-loader.gif": {
+   "sha512": "c5cb41d03bf5f78fcf97c98c0a6d117070b3968a9d5467d50a67cc1ea3056f83",
+   "size": 112832
+  },
+  "assets/lib/tinymce/tinymce.min.js": {
+   "sha512": "21d94779295a10d2ccd4a080c5c032053251287c7ce5b74b70513cd41526f384",
+   "size": 420404
+  },
+  "assets/lib/zeronet/class.js": {
+   "sha512": "affe3568586a4883a5cbe628743ee317dbcbfef58af4b15e4933828d09e581b9",
+   "size": 1341
+  },
+  "assets/lib/zeronet/zerochat.js": {
+   "sha512": "6bdf53961d6dc01412124e18327acfd3a7a15e70f09b387937af55e9ef3df608",
+   "size": 1379
+  },
+  "assets/lib/zeronet/zeroframe.js": {
+   "sha512": "d0066c5b409ef484cd48fe9d7fd74625370d0c5076047248863fd9e965b78493",
+   "size": 4566
+  },
+  "assets/styles/style.css": {
+   "sha512": "247ff4923450ef9bbe5506aaabc829b326bf88a15da3fbc66a2aea6a1c60b6ef",
+   "size": 84019
+  },
+  "assets/styles/style.css.map": {
+   "sha512": "a027b1023766477b1ad616de105e57444eec55dc2453d4cab5dab5505a3d3f4b",
+   "size": 156
+  },
+  "dbschema.json": {
+   "sha512": "b0ea5b85351511497262a9eb34dd664fccbaf6c4d54210f67900a123b29e50dc",
+   "size": 4888
+  },
+  "index.html": {
+   "sha512": "0c3ed07932409ae59543b2b0aca08abde8a7728adea585b45821c2bceb456704",
+   "size": 885
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "ff8a875512d3c74eb773bf3ca80f00a2399c0760e03b7ce7095f1a110670b530",
+   "size": 1916
+  },
+  "merged-ZeroVerse/zv.db": {
+   "sha512": "a9ac7fb055f9d532bd444473b87cf0fa0e97b382a0aa72bd569ba2692ed11b8e",
+   "size": 28672
+  },
+  "package-lock.json": {
+   "sha512": "1f5eae5a1a0bca0e66e921d2bcc3c8bbb3d48adb9f5977f5cebe3e541d963cd0",
+   "size": 208831
+  },
+  "package.json": {
+   "sha512": "dcc278fd2998046406cc5276bec4e27ec0af8b949be5c8009f6aad2e4dd15f5d",
+   "size": 1160
+  },
+  "webpack.config.js": {
+   "sha512": "070c88b4ba33c99b939b9ae9511b8868193d5de09ae468bf9237053cdf6a62de",
+   "size": 425
+  }
+ },
+ "ignore": "(.git|.md|.*.less|data|node_modules/|app/)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merger_name": "ZeroVerse",
+ "modified": 1555443121,
+ "postmessage_nonce_security": true,
+ "signers_sign": "G+NuPAus85VZEDE62vv2+BlYSjB8P2BHd8EGY79QflaZJAif4iXAI8qKtkRtmi74hw7f6tC1WPOb2RzB9vOWuds=",
+ "signs": {
+  "1D4irsAzXKkqfkwiadKHEwpbZuQKXvyiTK": "G1TTUlinISZhVT2wHvchowL9FK0mlJiWUc2AI/gNjVmpQqZ0u0lvjvGNLnc4TvU1JByDjY0HISu/Gx3yT+AoTlc="
+ },
+ "signs_required": 1,
+ "title": "ZeroVerse",
+ "translate": ["js/all.js"],
+ "zeronet_version": "0.6.5"
+}
